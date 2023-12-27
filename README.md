@@ -1,6 +1,6 @@
 # Hi there, I'm Abdullah Abdelhakeem! 👋
 
-I'm an Embedded Software Engineer with a passion for innovation in the automotive software industry. Based in Cairo, Egypt, I'm currently working at SEITech Solutions, driving impactful changes in Autosar cybersecurity and implementing Adaptive Autosar using C++.
+I'm an Embedded Software Engineer with a passion for innovation in the automotive software industry. I'm currently working at SEITech Solutions, driving impactful changes in Autosar cybersecurity and implementing Adaptive Autosar using C++.
 
 ## 🚀 About Me
 
