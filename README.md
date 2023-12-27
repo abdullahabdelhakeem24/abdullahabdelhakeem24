@@ -37,22 +37,30 @@ I'm an Embedded Software Engineer with a passion for innovation in the automotiv
 - Driver Monitoring System using C++ and Gtest.
 - Building ES Linux Image and implementing AI features (LPR Motion Detection, Face Recognition, Object Detection).
 
-### Education
 
-#### Master Embedded Linux Systems
+### Master Embedded Linux Systems
 **Moatasem - PN Junction** - *August 2023 to June 2024*
 
 - Python, C++, Rust.
 - Linux, Bash, Raspberrypi.
 - Yocto, Device Drivers.
 
-#### Embedded Software Diplomas
+### Embedded Software Diplomas
 **IMT School** - *June 2018 to Oct 2020*
 
 - Embedded Systems Diploma.
 - Embedded Linux Diploma.
 - ARM Cortex Diploma.
 - Classic Autosar.
+
+
+## 🏆 Awards and Certificates
+
+- 4th Rank in the Competition - hacktrick hackathon (2022).
+- AWS Certified Machine Learning – Specialty.
+- Various certificates in Adaptive Autosar, C++, Modern C++, Automotive CyberSecurity, and more.
+
+## 🌐 Education History
 
 #### Bachelor's degree in Mechatronics Engineering
 **HTI 10th Of Ramadan, El Sharia, Egypt** - *2018*
@@ -67,17 +75,6 @@ I'm an Embedded Software Engineer with a passion for innovation in the automotiv
 - Reinforcement Learning.
 - Python/Spark and C++.
 - Data Science.
-
-## 🏆 Awards and Certificates
-
-- 4th Rank in the Competition - hacktrick hackathon (2022).
-- AWS Certified Machine Learning – Specialty.
-- Various certificates in Adaptive Autosar, C++, Modern C++, Automotive CyberSecurity, and more.
-
-## 🌐 Education History
-
-- General Certificate of High School from Gamal Abdel Nasser Secondary, Zagazig, Egypt (2013).
-- Courses in Mean Stack Diploma, Front-End (HTML, CSS, JavaScript), Back-End (Node.js, Angular, MongoDB), and Mobile App Development (Cordova Platform).
 
 ## 📚 Graduation Project
 
