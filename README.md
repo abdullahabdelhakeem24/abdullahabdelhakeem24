@@ -20,9 +20,9 @@ I'm an Embedded Software Engineer with a passion for innovation in the automotiv
 
 ## 🌐 Contact Info
 
-- LinkedIn: [Abdullah Abdelhakeem](#https://www.linkedin.com/in/abdullah-abdelhakeem-3b5338116/)
-- GitHub: [abdullahabdelhakeem24](#https://github.com/AbdullahAbdelhakeem6484)
-- Portfolio: [Abdullah's Portfolio](#https://abdullahabdelhakeem24.github.io/)
+- LinkedIn: [Abdullah Abdelhakeem](https://www.linkedin.com/in/abdullah-abdelhakeem-3b5338116/)
+- GitHub: [abdullahabdelhakeem24](https://github.com/AbdullahAbdelhakeem6484)
+- Portfolio: [Abdullah's Portfolio](https://abdullahabdelhakeem24.github.io/)
 
 📧 **Email:** abdullah.abdelhakeem24@gmail.com  
 📞 **Phone:** +20-1060178099  
